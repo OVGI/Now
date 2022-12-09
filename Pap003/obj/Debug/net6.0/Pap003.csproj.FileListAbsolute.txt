@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\NowDZ\DZ2_Gir\Pap003\bin\Debug\net6.0\Pap003.exe
+C:\Users\user\Desktop\NowDZ\DZ2_Gir\Pap003\bin\Debug\net6.0\Pap003.deps.json
+C:\Users\user\Desktop\NowDZ\DZ2_Gir\Pap003\bin\Debug\net6.0\Pap003.runtimeconfig.json
+C:\Users\user\Desktop\NowDZ\DZ2_Gir\Pap003\bin\Debug\net6.0\Pap003.dll
+C:\Users\user\Desktop\NowDZ\DZ2_Gir\Pap003\bin\Debug\net6.0\Pap003.pdb
+C:\Users\user\Desktop\NowDZ\DZ2_Gir\Pap003\obj\Debug\net6.0\Pap003.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\NowDZ\DZ2_Gir\Pap003\obj\Debug\net6.0\Pap003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\NowDZ\DZ2_Gir\Pap003\obj\Debug\net6.0\Pap003.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\NowDZ\DZ2_Gir\Pap003\obj\Debug\net6.0\Pap003.AssemblyInfo.cs
+C:\Users\user\Desktop\NowDZ\DZ2_Gir\Pap003\obj\Debug\net6.0\Pap003.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\NowDZ\DZ2_Gir\Pap003\obj\Debug\net6.0\Pap003.dll
+C:\Users\user\Desktop\NowDZ\DZ2_Gir\Pap003\obj\Debug\net6.0\refint\Pap003.dll
+C:\Users\user\Desktop\NowDZ\DZ2_Gir\Pap003\obj\Debug\net6.0\Pap003.pdb
+C:\Users\user\Desktop\NowDZ\DZ2_Gir\Pap003\obj\Debug\net6.0\Pap003.genruntimeconfig.cache
+C:\Users\user\Desktop\NowDZ\DZ2_Gir\Pap003\obj\Debug\net6.0\ref\Pap003.dll
